@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 ### 👨‍💻 About Me:
 
 <p align="center">
@@ -19,38 +20,36 @@
 
 <ul>
   <li>🔭 <strong>Currently working on:</strong> TravelGenius & TeaBridge</li>
-  <li>🌱 <strong>Learning:</strong> web 3.0 | Blockchain | Supabase</li>
-  <li>👯 <strong>Open to collaborating on:</strong> Web & Mobile Apps🐼</li>
-  <li>🫡 <strong>Ask me about:</strong> Next JS😏</li>
-  <li>🤝 <strong>Looking for help with:</strong> Ballerina for Hackathons🥶</li>
-  <li>⚡ <strong>Fun fact:</strong> Learning something new & Reading books💚</li>
+  <li>🌱 <strong>Learning:</strong> Web 3.0 | Blockchain | Supabase</li>
+  <li>👯 <strong>Open to collaborating on:</strong> Web & Mobile Apps 🐼</li>
+  <li>🫡 <strong>Ask me about:</strong> Next.js 😏</li>
+  <li>🤝 <strong>Looking for help with:</strong> Ballerina for Hackathons 🥶</li>
+  <li>⚡ <strong>Fun fact:</strong> I enjoy learning something new & reading books 💚</li>
 </ul>
-
 
 ---
 
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://dev.to/kavishka_dinajara_88" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" style="width:50px" alt="Dev.to Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg" width="50" alt="Dev.to Badge"/>
   </a>
   <a href="https://facebook.com/kavishka.dinajara" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg" style="width:50px" alt="Facebook Badge"/>
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg" width="50" alt="Facebook Badge"/>
   </a>
   <a href="https://instagram.com/kavishka_dinajara" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" style="width:50px" alt="Instagram Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="50" alt="Instagram Badge"/>
   </a>
   <a href="https://pinterest.com/kavishkadinajara" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Pinterest.svg" style="width:50px" alt="Pinterest Badge"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Pinterest.svg" width="50" alt="Pinterest Badge"/>
   </a>
   <a href="https://linkedin.com/in/kavishka-dinajara-502b011b3" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" style="width:50px" alt="LinkedIn Badge"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/dinajara44888" target="_blank">
-    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" style="width:50px" alt="X Badge"/>
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" width="50" alt="X Badge"/>
   </a>
 </p>
-
 
 ---
 
@@ -90,21 +89,20 @@
 <!--   <img src="https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> -->
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavishkadinajara&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="Kavishka's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishkadinajara&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkadinajara&theme=radical&layout=compact&hide_border=false&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kavishkadinajara&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Kavishka's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishkadinajara&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkadinajara&theme=radical&layout=compact&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavishkadinajara&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kavishkadinajara&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -120,8 +118,6 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=kavishkadinajara&icon=0&color=0" alt="Profile Visits"/>
 </p>
-
----
 
 <h3 align="center">✨ Thanks for visiting! ✨</h3>
 
