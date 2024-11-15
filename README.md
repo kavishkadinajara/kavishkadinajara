@@ -55,7 +55,7 @@
 
 ### 📊 My WakaTime Stats:
 <p align="center">
-  <a href="https://wakatime.com/@YOUR_USER_ID" target="_blank">
+  <a href="https://wakatime.com/@2fd19a86-8f34-4042-a5fc-5a759b0e87cc" target="_blank">
     <img src="https://wakatime.com/badge/user/2fd19a86-8f34-4042-a5fc-5a759b0e87cc.svg" alt="WakaTime Badge"/>
   </a>
 </p>
