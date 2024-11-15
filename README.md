@@ -53,6 +53,15 @@
 
 ---
 
+### 📊 My WakaTime Stats:
+<p align="center">
+  <a href="https://wakatime.com/@YOUR_USER_ID" target="_blank">
+    <img src="https://wakatime.com/badge/user/2fd19a86-8f34-4042-a5fc-5a759b0e87cc.svg" alt="WakaTime Badge"/>
+  </a>
+</p>
+
+---
+
 ### 💻 Tech Stack:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" style="width:50px" alt="HTML"/>
