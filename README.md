@@ -55,7 +55,7 @@
 
 ### 📊 My WakaTime Stats:
 <p align="center">
-  <a href="https://wakatime.com/@2fd19a86-8f34-4042-a5fc-5a759b0e87cc" target="_blank">
+  <a href="https://wakatime.com/@kavishkadinjara" target="_blank">
     <img src="https://wakatime.com/badge/user/2fd19a86-8f34-4042-a5fc-5a759b0e87cc.svg" alt="WakaTime Badge"/>
   </a>
 </p>
@@ -101,12 +101,16 @@
 
 ---
 
-### 📊 GitHub Stats:
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkadinajara&show_icons=true&langs_count=10&locale=en&layout=compact&theme=synthwave)](https://github.com/kavishkadinajara)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kavishkadinajara&theme=synthwave&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+![Kavishkadinajara's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavishkadinajara&count_private=true&show_icons=true&locale=en&theme=synthwave)
+[![Kavishkadinajara's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kavishkadinajara&hide=Other&theme=synthwave&hide_progress=true&custom_title=@kavishkadinajara%27s%20Wakatime%20Stats)](https://wakatime.com/@kavishkadinjara)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavishkadinajara&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Kavishka's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishkadinajara&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishkadinajara&theme=radical&layout=compact&hide_border=true&langs_count=10" alt="Top Languages"/>
+<img src="https://wakatime.com/badge/user/2fd19a86-8f34-4042-a5fc-5a759b0e87cc.svg" />
 </p>
+
+<br>
+<img align="right" src="https://img.shields.io/github/last-commit/kavishkadinajara/kavishkadinajara?style=plastic" />
 
 ---
 
