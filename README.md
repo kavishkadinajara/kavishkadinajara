@@ -1,4 +1,5 @@
 <!-- README.md -->
+![image](https://github.com/user-attachments/assets/3778cd8b-802c-4936-9516-4fc5814fbead)
 
 <h1 align="center">💫 Hi! I'm Kavishka Dinajara 🖐️</h1>
 
